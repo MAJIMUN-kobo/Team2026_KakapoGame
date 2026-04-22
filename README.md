@@ -1,1 +1,2 @@
-# Team2026_KakapoGame
+ Team Development 2026  
+ # カカポ100%
